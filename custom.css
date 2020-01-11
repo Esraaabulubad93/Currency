@@ -1,0 +1,32 @@
+.font{
+	background: black;
+	width: 70px;
+	height: 70px;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	padding: 20px;
+
+}
+.font h4{
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+}
+.font:hover{
+	background-color: white;
+	color: red;
+}
+
+.row-fluid{
+	margin: 5px;
+	padding-top: 50px;
+	padding-bottom: 5px;
+	margin-left: 60px;
+}
+body{
+	background-image:url('cp1.jpg');
+}
+.page-header{
+	text-align: center;
+	color: red;
+}
